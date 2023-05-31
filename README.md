@@ -8,3 +8,6 @@ I am a graduate student at Drexel University working on a degree in Library and 
 
 
 I found this repository that collects and stores play-by-play data for baseball games dating  all the way back to 1920. https://www.retrosheet.org/game.htm
+
+Specifically, the repository collects just about every statistic from baseball for a given year. It includes full rosters, game box scores and statlines, \
+The biggest issue I ran into with this data is the only way to access it is to download it as a ZIP file that includes EVE and ROS files, neither of which I found a way to display it cleanly. 
